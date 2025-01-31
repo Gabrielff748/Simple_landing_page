@@ -1,0 +1,16 @@
+#home {color: white;}
+
+.centralizando {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 85vh; /* Full viewport height */
+    text-align: center;
+}
+.caixa {
+    border-radius: 30px;
+}
+
+.sombra {
+    box-shadow: 15px 15px 10px gray;
+}
